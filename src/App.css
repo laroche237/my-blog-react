@@ -1,0 +1,31 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  background-color: #fff;
+}
+
+nav {
+  margin-bottom: 10px;
+  background-color: #fff;
+  font-size: x-large;
+  text-align: center;
+}
+
+nav a {
+  margin-right: 10px;
+  text-decoration: none;
+  color:chocolate;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: deeppink;
+}
+
+form div {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-right: 5px;
+}

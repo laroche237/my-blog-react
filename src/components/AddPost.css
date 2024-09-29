@@ -1,0 +1,44 @@
+.Addpost{
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color:mintcream;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.title{
+    text-align: center;
+}
+.title label{
+    font-size: large;
+    font-weight: bold;
+    color: pink;
+}
+.title input{
+    border: 3px solid rgb(255, 0, 170);
+    border-radius: 5px;
+}
+.content{
+    text-align: center;
+}
+.content label{
+    font-size: large;
+    font-weight: bold;
+    color: pink;
+}
+.content textarea{
+    border: 3px solid rgb(255, 0, 170);
+    border-radius: 5px;
+}
+
+button .btn_add{
+    background-color: rgb(255, 0, 170);
+    border: none;
+    border-radius: 10px;
+    padding: 10px 16px;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+}
